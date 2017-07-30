@@ -1,0 +1,30 @@
+- name:
+    i18n: 'name_CD4'
+  desc:
+    i18n: 'CD4'
+  img: 'static/img/projects/mitosis.jpeg'
+  repo: 'yes'
+  gh_user: 'satacroteam'
+  repo: 'Scoring-and-Financial-Analysis'
+
+- name:
+    i18n: 'name_Oil'
+  desc:
+    i18n: 'Oil'
+  img: 'static/img/projects/mutli_reg.png'
+
+  repo: 'yes'
+  gh_user: 'satacroteam'
+  repo: 'Classification-automatique-puits-petrol'
+
+- name:
+    i18n: 'name_geoloc'
+  desc:
+    i18n: 'geoloc'
+  img: 'static/img/projects/rel_pos_triangulation.jpg'
+
+  repo: 'yes'
+  gh_user: 'satacroteam'
+  repo: 'Speed-Dating'
+
+

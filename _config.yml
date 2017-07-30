@@ -1,0 +1,31 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Florian Robinet"
+description: "Resume"
+keywords: ""
+url: "https://satacroteam.github.io"
+baseurl: "/OnlineResume/"
+
+# author
+author:
+  name: 'Florian Robinet'
+  first_name: 'Florian'
+  last_name: 'Robinet'
+  email: 'florian.robinet.49000@hotmail.fr'
+  facebook_username: 'robinet.florian'
+  github_username: 'satacroteam'
+  avatar: 'static/img/landing/tof.png'
+  desc: 'I am a young data scientist with a strong background in mathematics. \n
+  Through academic and professional projects, I gained significant experience in IA, machine learning and distributed infrastructure. \n
+  Life is like riding a bicycle, to keep your balance, you must keep moving.'
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

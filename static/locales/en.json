@@ -1,0 +1,66 @@
+{
+  "website":{
+    "title": "Florian Robinet"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "link": "Language"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "I am a young data scientist with a strong background in mathematics. Through academic and professional projects, I gained significant experience in IA, machine learning and distributed infrastructure. Life is like riding a bicycle, to keep your balance, you must keep moving.",
+    "my_skills": "My Skills"
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "name_CD4": "Scoring and Financial Analysis",
+    "CD4": "The first step of our investment strategy was to found companies with good intrinsic values by scoring methods. Then we calculate the yield and the risk of the stocks we have selected to do portfolio optimisation. | #R ",
+    "name_d3js": "Data Visualization",
+    "d3js": "Visualization of soccer ranking and pediction | #html #css #javascript #d3js",
+    "name_Oil": "Oil Well Classification",
+    "Oil": "Determine the quality of several wells of a Canadian oil field with their production curves per month using regression. | #R",
+    "name_geoloc": "Speed Dating | Kaggle",
+    "geoloc": "We worked on a dataset furnish by Kaggle about speed dating information. We realize an analysis based on supervised and unsupervised learning. | #R #Python ",
+    "name_velov": "Velo'v Data Analysis",
+    "velov": "Determining the evolution of the city's (velo'v) bicycle fleet and provide statistics and graphical information for each station. #kafka #spark"
+  },
+  "career":{
+    "my_career": "Career",
+    "master22": "Data science internship",
+    "master22_des": "Realisation of a python script linked to Mattermost, an open source live chat plateform, in order to provides natural language processing features.",
+    "master22_date": "Mar. 2017 - Sep. 2017",
+    "master22_job": "Sogeti High Tech | Lyon",
+    "master22_course1": "Natural Language processing, text classification, key words detection, similar texts detection",
+    "master2": "Master 2 Data Science",
+    "master2_des": "I chose a specialization in Data Science shared between Mathematics and Computer Science section of the University Lyon 1.",
+    "master2_date": "Sep. 2016",
+    "master2_job": "University Claude Bernard Lyon 1 (UCBL) - Ecole Centrale - Liris | Lyon",
+    "master2_course1": "Statistical methods and Regression Models, Probabilistic Graphical Models, Graph Complexity and Combinatory, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine learning",
+    "internship": "IT security auditor",
+    "internship_des": "I work, in the IT department of the SNCF direction, on security exception management tasks, risk analyses supervision and technological watch.",
+    "internship_date": "May. 2016 - Sep. 2016",
+    "internship_job": "SNCF - Lyon",
+    "internship_course1": "Risk assessment, MERISE, DMAIC",
+    "master1": "Master 1 Applied Mathematics",
+    "master1_des": "This formation allowed me to combine several disciplines that range from applied mathematics to computer science through economy and management.",
+    "master1_date": "Sep. 2015 - May. 2016",
+    "master1_job": "ISFA (Financial and actuarial institute) | Lyon",
+    "master1_course1": "Data analysis, Statistical classification, Linux and Security, Stochastic process, Statistics, Economy, Cryptography and Mathematical finance",
+    "bachelor": "Bachelor of Applied Mathematics",
+    "bachelor_des": "This course provides a multidisciplinary education that responds to the demands of companies in economics, statistics and computer science.",
+    "bachelor_date": "Jun. 2015",
+    "bachelor_job": "University Claude Bernard Lyon 1 (UCBL) | Lyon"
+  },
+  "link":{
+    "link": "Language",
+    "view": "views"
+  }
+
+}

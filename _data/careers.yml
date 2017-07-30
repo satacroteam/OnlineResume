@@ -1,0 +1,111 @@
+# careers section data
+- name:
+    detail: Data scientist
+    i18n: master22
+  desc:
+    detail: I chose a specialization in Data Science
+    i18n: master22_des
+  date:
+    detail: Sep. 2016
+    i18n: master22_date
+  job:
+    detail: Master in Data Science | UCBL - ECL - Liris | Lyon
+    i18n: master22_job
+  icon: fa-bolt
+  course1:
+    detail: Data analysis, Statistical classification, Linux and Security, Stochastic process, Statistics, Economy, Cryptography and Mathematical finance.
+    i18n: master22_course1
+  url:
+    detail: "https://www.sogeti-hightech.fr/"
+    i18n: master22_url
+
+
+- name:
+    detail: Master 2 Data Science
+    i18n: master2
+  desc:
+    detail: I chose a specialization in Data Science
+    i18n: master2_des
+  date:
+    detail: Sep. 2016 - Mar.2017
+    i18n: master2_date
+  job:
+    detail: Master in Data Science | UCBL - ECL - Liris | Lyon
+    i18n: master2_job
+  icon: fa-cubes
+  course1:
+    detail: Data analysis, Statistical classification, Linux and Security, Stochastic process, Statistics, Economy, Cryptography and Mathematical finance.
+    i18n: master2_course1
+  url:
+    detail: "http://masterim.univ-lyon1.fr/?q=node/79"
+    i18n: master2_url
+
+- name:
+    detail: Roxwhale
+    i18n: internship
+  desc:
+    detail: I work, in the IT department of the SNCF direction, on security exception management tasks, risk analyses supervision and technological watch. 
+    i18n: internship_des
+  date:
+    detail: Jan. 2016 - Sep. 2016
+    i18n: internship_date
+  job:
+    detail: Internship
+    i18n: internship_job
+  icon: fa-location-arrow
+  course1:
+    detail: Data analysis, Statistical classification, Linux and Security, Stochastic process, Statistics, Economy, Cryptography and Mathematical finance
+    i18n: internship_course1
+  url:
+    detail: "http://www.sncf.com/"
+    i18n: internship_url
+
+- name:
+    detail: Master 1 Applied Mathematics
+    i18n: master1
+  desc:
+    detail: ...
+    i18n: master1_des
+  date:
+    detail: Sep. 2015 - May. 2016
+    i18n: master1_date
+  job:
+    detail: ISFA (Financial and actuarial institute) | Lyon
+    i18n: master1_job
+  course1:
+    detail: Data analysis, Statistical classification, Linux and Security, Stochastic process, Statistics, Economy, Cryptography and Mathematical finance
+    i18n: master1_course1
+  # course2:
+  #   detail: hello2
+  #   i18n: master1_course2
+  # course3:
+  #   detail: hello2
+  #   i18n: master1_course2
+  course:
+    - course1:
+        detail: algebre
+        i18n: master1_course1
+      course2:
+        detail: I work, in the IT department of the SNCF direction, on security exception management tasks, risk analyses supervision and technological watch. 
+        i18n: master1_course2
+  icon: fa-university
+  url:
+    detail: "http://isfa.univ-lyon1.fr/"
+    i18n: master1_url
+
+- name:
+    detail: Bachelor
+    i18n: bachelor
+  desc:
+    detail:  "This course provides a multidisciplinary education that responds to the demands of companies in economics, statistics and computer science."
+    i18n: bachelor_des
+  date:
+    detail: Jun. 2015
+    i18n: bachelor_date
+  job:
+    detail: University Claude Bernard Lyon 1 (UCBL) | Lyon
+    i18n: bachelor_job
+  icon: fa-book
+  url:
+    detail: "http://licence-math.univ-lyon1.fr/doku.php"
+    i18n: bachelor_url

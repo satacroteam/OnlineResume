@@ -1,0 +1,70 @@
+{
+  "website":{
+    "title": "Florian Robinet"
+  },
+  "nav":{
+    "home": "Accueil",
+    "about_me": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "career": "Parcours",
+    "link": "Langue"
+  },
+  "about_me":{
+    "about_me": "À propos",
+    "des": "Je suis un jeune data scientist de formation à dominante mathématique. A travers les différents projets académiques et professionnelles que j’ai réalisés, j’ai acquis une expérience dans les domaines du Machine Learning, de l’intelligence artificielle et des infrastructures distribuées."
+  },
+  "skills":{
+      "my_skills": "Compétences"
+    },
+    "projects":{
+      "my_projects": "Projets",
+      "name_CD4": "Scoring et analyse financière",
+      "CD4": "La première partie de la stratégie d’investissement était de trouver des entreprises avec une forte valeur intrinsèque par une méthode de scoring. Ensuite il s’agissait d’optimiser le portefeuille des actifs choisis. | #R ",
+      "name_d3js": "Data Visualization",
+      "d3js": "Visualisation de classement et prévisions | #html #css #javascript #d3js",
+      "name_Oil": "Classification de puits de pétroles",
+      "Oil": "Détermination de la qualité de puits de pétroles au Canada à partir de leur courbe de production. | #R",
+      "name_geoloc": "Speed Dating | Kaggle",
+      "geoloc": "Nous avons travaillé sur un jeu de données Kaggle sur des rencontres de speed dating. On a réalisé une analyse de ces données avec des méthodes d’apprentissage de type supervisé et non supervisé. | #R #Python ",
+      "name_velov": "Analyse de données Velo'v",
+      "velov": "Détermination de l'évolution des vélos en libre service de la ville de Lyon, analyse descriptive, statistique et apprentissage sur ces données. #kafka #spark"
+    },
+  "career":{
+    "my_career": "Parcours",
+    "master22": "Data scientist stagiaire",
+    "master22_des": "Réalisation d'une surcouche python à Mattermost, une plateforme d'échange live open-source, afin d'ajouter des fonctionnalités liées au natural language processing.",
+    "master22_date": "Mar. 2017 - Sep. 2017",
+    "master22_job": "Sogeti High Tech | Lyon",
+    "master22_course1": "Traitement automatique du langage naturel, classification de texte, détection de mots clés, détection de contenus similaires.",
+    "master22_url": "https://www.sogeti-hightech.fr/",
+    "master2": "Master 2 Data Science",
+    "master2_des": "J'ai suivi le parcours Data Science mutualisé entre les sections informatiques et mathématiques de l'Université Lyon 1.",
+    "master2_date": "Sep. 2016 - Mar. 2017",
+    "master2_job": "Université Claude Bernard Lyon 1 (UCBL) - Ecole Centrale - Liris | Lyon",
+    "master2_course1": "Modèles statistiques et régression, Modèle Graphique Probabiliste, Graphe Complexité et Combinatoire, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine learning",
+    "internship": "Auditeur stagiaire en sécurité informatique",
+    "internship_des": "J’ai réalisé des missions de gestion des exceptions à la PSSI, de suivi des analyses de risques et de veille en sécurité.",
+    "internship_date": "Mai. 2016 - Sep. 2016",
+    "internship_job": "SNCF - Lyon",
+    "internship_course1": "Analyse de risques, méthode MERISE et DMAIC",
+    "master1": "Master 1 Mathématiques Appliqués",
+    "master1_des": "Ce parcours m’a permis d’associer plusieurs disciplines qui vont des mathématiques appliquées à l'informatique en passant par l'économie et la gestion.",
+    "master1_date": "Sep. 2015 - Mai. 2016",
+    "master1_job": "ISFA (Institut des sciences financières et actuarielles) | Lyon",
+    "master1_course1": "Analyse de données, Classification, Linux et Sécurité, Modèles aléatoires discrets, Statistiques, Economie, Cryptographie et Mathématiques financières",
+    "bachelor": "Licence de Mathématiques Appliqués",
+    "bachelor_des": "Cette formation dispense un enseignement pluridisciplinaire qui répond aux demandes des entreprises notamment en économie, en mathématique et en informatique.",
+    "bachelor_date": "Juin. 2015",
+    "bachelor_job": "Université Claude Bernard Lyon 1 (UCBL) | Lyon"
+  },
+
+  "link":{
+    "link": "Langue",
+    "view": "views",
+    "french":{"last_name":"Français", "desc": "Natif"},
+    "english":{"last_name": "Anglais", "desc": "Profesionnel"},
+    "spanish":{"last_name": "Espagnol", "desc": "Limité"}
+  }
+
+}

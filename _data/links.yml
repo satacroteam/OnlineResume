@@ -10,7 +10,3 @@
 - last_name: Spanish
   i18n: 'spanish'
   desc: 'Limited'
-
-- last_name: Italian
-  i18n: 'italian'
-  desc: 'Limited'

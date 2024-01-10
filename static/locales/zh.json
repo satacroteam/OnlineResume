@@ -64,8 +64,7 @@
     "view": "views",
     "french":{"last_name":"Français", "desc": "Natif"},
     "english":{"last_name": "Anglais", "desc": "Profesionnel"},
-    "spanish":{"last_name": "Espagnol", "desc": "Limité"},
-    "italian":{"last_name": "Italien", "desc": "Limité"}
+    "spanish":{"last_name": "Espagnol", "desc": "Limité"}
   }
 
 }

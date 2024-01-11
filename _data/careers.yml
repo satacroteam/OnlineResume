@@ -1,6 +1,26 @@
 # careers section data
 - name:
     detail: Data scientist
+    i18n: master222
+  desc:
+    detail: I chose a specialization in Data Science
+    i18n: master222_des
+  date:
+    detail: Sep. 2016
+    i18n: master222_date
+  job:
+    detail: Master in Data Science | UCBL - ECL - Liris | Lyon
+    i18n: master222_job
+  icon: fa-bolt
+  course1:
+    detail: Data analysis, Statistical classification, Linux and Security, Stochastic process, Statistics, Economy, Cryptography and Mathematical finance.
+    i18n: master222_course1
+  url:
+    detail: "https://www.sogeti-hightech.fr/"
+    i18n: master222_url
+
+- name:
+    detail: Data scientist
     i18n: master22
   desc:
     detail: I chose a specialization in Data Science
